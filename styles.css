@@ -1,0 +1,77 @@
+
+.h11 {
+    position: absolute;
+    width: 600px;
+    height: 70px;
+    left: 150px;
+    top: 100px;
+    
+    font-family: 'Verdana';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 38px;
+    line-height: 70px;
+    
+    color: #ffffff;
+}
+
+.h22 {
+    position: absolute;
+    width: 413px;
+    height: 70px;
+    left: 239px;
+    top: 136px;
+    
+    font-family: 'Verdana';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 38px;
+    line-height: 70px;
+    
+    color: #ffffff;
+}
+
+.circulo {
+    border-radius: 50%;
+    position: absolute;
+    width: 1200px;
+    height: 2200px;
+    left: -263.75px;
+    top: -1329px;
+    background: #E68F1B;
+    transform: rotate(17.35deg);
+}
+
+.input-cadastrar {
+    position: absolute;
+    width: 150px;
+    height: 50px;
+    left: 290px;
+    top: 230px;
+    border-radius: 100px;
+    border: 3px solid #ffffff;
+    color: #ffffff;
+    padding: 5px 8px;
+    cursor: pointer;
+    font-size: 15;
+    background-color: #E68F1B;
+    transition: all .3s ease;
+}
+
+.input-cadastrar:hover {
+    background-color: #ffffff;
+    color: #E68F1B;
+}
+
+img {
+    left: 78px;
+    top: 500px;
+    position: absolute;
+    width: 180px;
+}
+
+html, body {
+    overflow: hidden;
+   }
+
+
